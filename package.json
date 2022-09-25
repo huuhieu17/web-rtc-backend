@@ -1,0 +1,17 @@
+{
+  "name": "web-rtc-backend",
+  "version": "1.0.0",
+  "description": "Web video call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "huuhieu17",
+  "license": "ISC",
+  "dependencies": {
+    "socket-io": "^1.0.0"
+  }
+}
